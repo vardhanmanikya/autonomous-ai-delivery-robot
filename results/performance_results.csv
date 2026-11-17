@@ -1,0 +1,4 @@
+Test_ID,Scenario,Initial_Path_Length,Final_Path_Length,Replanning_Events,Total_Robot_Moves,Delivery_Status,Planning_Time_ms
+1,No Dynamic Obstacle,14,14,0,14,SUCCESS,1.072
+2,One Dynamic Obstacle,14,14,1,14,SUCCESS,0.685
+3,Multiple Dynamic Obstacles,14,14,2,14,SUCCESS,0.726

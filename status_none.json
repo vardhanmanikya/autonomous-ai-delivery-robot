@@ -1,0 +1,147 @@
+{
+  "ai_status": "ACTIVE",
+  "astar_status": "ACTIVE",
+  "robot_status": "COMPLETED",
+  "replanning_events": 0,
+  "delivery_status": "SUCCESS",
+  "robot_position": [
+    8,
+    8
+  ],
+  "shadow_position": [
+    8,
+    8
+  ],
+  "speed_mode": "NORMAL",
+  "route_alert": "None",
+  "delivery_confirmation": "Delivered 23:55:28 at (8, 8)",
+  "dynamic_obstacles": [],
+  "dynamic_obstacle_count": 0,
+  "dynamic_obstacle_target": 0,
+  "scenario": "none",
+  "planning_time_ms": 0.525,
+  "dynamic_obstacle": null,
+  "dynamic_obstacle_visible": false,
+  "detected_objects": [
+    {
+      "object": "bus",
+      "confidence": 0.8806002140045166,
+      "position": [
+        "C",
+        "E",
+        "N",
+        "T",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8720113635063171,
+      "position": [
+        "L",
+        "E",
+        "F",
+        "T"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8608077764511108,
+      "position": [
+        "C",
+        "E",
+        "N",
+        "T",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8462482690811157,
+      "position": [
+        "R",
+        "I",
+        "G",
+        "H",
+        "T"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.6562200784683228,
+      "position": [
+        "L",
+        "E",
+        "F",
+        "T"
+      ]
+    }
+  ],
+  "path": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      8
+    ]
+  ],
+  "shortest_route_steps": 14,
+  "alternative_route_steps": 14,
+  "extra_steps": 0
+}

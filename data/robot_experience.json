@@ -1,0 +1,11 @@
+{
+    "successful_missions": 3,
+    "failed_missions": 0,
+    "problem_locations": [
+        [
+            1,
+            5
+        ]
+    ],
+    "problem_routes": []
+}

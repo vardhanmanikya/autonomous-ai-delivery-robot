@@ -1,0 +1,159 @@
+{
+  "ai_status": "ACTIVE",
+  "astar_status": "ACTIVE",
+  "robot_status": "COMPLETED",
+  "replanning_events": 4,
+  "delivery_status": "SUCCESS",
+  "robot_position": [
+    8,
+    8
+  ],
+  "shadow_position": [
+    8,
+    8
+  ],
+  "speed_mode": "NORMAL",
+  "route_alert": "None",
+  "delivery_confirmation": "Delivered 11:25:34 at (8, 8)",
+  "dynamic_obstacles": [
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      2
+    ]
+  ],
+  "dynamic_obstacle_count": 4,
+  "dynamic_obstacle_target": 4,
+  "scenario": "multiple",
+  "planning_time_ms": 5.753,
+  "dynamic_obstacle": [
+    1,
+    4
+  ],
+  "dynamic_obstacle_visible": true,
+  "detected_objects": [
+    {
+      "object": "bus",
+      "confidence": 0.8806002140045166,
+      "position": [
+        "C",
+        "E",
+        "N",
+        "T",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8720113635063171,
+      "position": [
+        "L",
+        "E",
+        "F",
+        "T"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8608077764511108,
+      "position": [
+        "C",
+        "E",
+        "N",
+        "T",
+        "E",
+        "R"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.8462482690811157,
+      "position": [
+        "R",
+        "I",
+        "G",
+        "H",
+        "T"
+      ]
+    },
+    {
+      "object": "person",
+      "confidence": 0.6562200784683228,
+      "position": [
+        "L",
+        "E",
+        "F",
+        "T"
+      ]
+    }
+  ],
+  "path": [
+    [
+      5,
+      3
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      8
+    ]
+  ],
+  "shortest_route_steps": 12,
+  "alternative_route_steps": 12,
+  "extra_steps": 0
+}

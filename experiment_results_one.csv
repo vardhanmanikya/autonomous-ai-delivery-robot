@@ -1,0 +1,5 @@
+timestamp,scenario,obstacle_target,obstacles_spawned,planning_time_ms,replanning_events,delivery_status
+2026-11-10T23:17:52,one,1,1,1.2078,1,SUCCESS
+2026-11-10T23:18:31,one,1,1,0.971,1,SUCCESS
+2026-11-10T23:53:33,one,1,1,1.388,1,SUCCESS
+2026-11-10T23:55:32,one,1,1,1.3014,1,SUCCESS

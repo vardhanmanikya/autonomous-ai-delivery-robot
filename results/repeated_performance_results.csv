@@ -1,0 +1,4 @@
+Scenario,Runs,Average_Initial_Path,Average_Final_Path,Average_Replanning_Events,Average_Robot_Moves,Average_Planning_Time_ms,Successful_Runs,Success_Rate_Percent
+No Dynamic Obstacle,10,14,14,0,14,1.024,10,100.0
+One Dynamic Obstacle,10,14,14,1,14,1.808,10,100.0
+Multiple Dynamic Obstacles,10,14,14,2,14,2.3,10,100.0
